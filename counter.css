@@ -1,0 +1,44 @@
+.button {
+  border: 50px;
+  border-color: blue;
+  background-color: lightblue;
+  border-radius: 150px;
+  height:150px;
+  width:150px;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+}
+#input
+{
+  border: 20px;
+  background-color: pink;
+  border-radius: 500px;
+  height:300px;
+  width:300px;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 4px 2px;
+
+}
+#first
+{
+  border: 2px;
+  background-color: lightyellow;
+  border-radius: 50px;
+  height:600px;
+  width:500px;
+  display: inline-block;
+
+}
+body{
+  background-color: grey;
+}
