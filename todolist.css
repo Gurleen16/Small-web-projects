@@ -1,0 +1,55 @@
+body
+{
+  background-color: lightblue;
+}
+#first
+{
+  border-radius:20px;
+  border-color: blue;
+  height:600px;
+  width:600px;
+  border:5px solid blue;
+  background:white;
+  color:blue;
+
+}
+#second
+{
+  border-radius:20px;
+  height:320px;
+  width:400px;
+  border:0.5px solid gray;
+  background:lightblue;
+  color:blue;
+
+}
+#table
+{
+  border-radius:3px;
+  border-color: blue;
+  height:30px;
+  width:300px;
+  border:5px solid blue;
+
+}
+.input
+{
+  border-radius:10px;
+  height:40px;
+  width:400px;
+  padding-left:10px;
+  border:0.5px solid grey;
+  background:pink;
+  color:black;
+
+}
+.button
+{
+  border-radius:5px;
+  height:30px;
+  width:40px;
+  border:0.5px solid gray;
+  background:pink;
+  color:black;
+
+}
